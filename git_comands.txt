@@ -1,0 +1,9 @@
+git commit -am "Add and commit files"
+
+git config --global alias.ac "commit -am" (alias git commands)
+
+git commit --admend -m "Nice" (admend commit)
+
+git log --graph --oneline --decorate (more raedable log)
+
+git rebase {Branch Name} --interactive 
