@@ -7,3 +7,5 @@ git commit --admend -m "Nice" (admend commit)
 git log --graph --oneline --decorate (more raedable log)
 
 git rebase {Branch Name} --interactive 
+
+git ref log
