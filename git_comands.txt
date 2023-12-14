@@ -8,4 +8,4 @@ git log --graph --oneline --decorate (more raedable log)
 
 git rebase {Branch Name} --interactive 
 
-git ref log
+git reflog
