@@ -1,3 +1,9 @@
+git -v / git --version 
+
+git status
+
+git init
+
 git commit -am "Add and commit files"
 
 git config --global alias.ac "commit -am" (alias git commands)
